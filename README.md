@@ -456,7 +456,3 @@ dependencies: [
 
 The latest documentation for the Custom Dump APIs is available [here](https://swiftpackageindex.com/pointfreeco/swift-custom-dump/documentation).
 
-## Other libraries
-
-* [Difference](https://github.com/krzysztofzablocki/Difference)
-* [MirrorDiffKit](https://github.com/Kuniwak/MirrorDiffKit)

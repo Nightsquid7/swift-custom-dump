@@ -460,7 +460,3 @@ The latest documentation for the Custom Dump APIs is available [here](https://sw
 
 * [Difference](https://github.com/krzysztofzablocki/Difference)
 * [MirrorDiffKit](https://github.com/Kuniwak/MirrorDiffKit)
-
-## License
-
-This library is released under the MIT license. See [LICENSE](LICENSE) for details.
